@@ -28,19 +28,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MRF</h3>
+  <h3 align="center">CRF</h3>
 
   <p align="center">
-    CLI TO MAKE REACT COMPONENTS 
-	
+    YOUR_SHORT_DESCRIPTION
     <br />
-    
+    <a href="https://github.com/13sfaith/crf"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/13sfaith/crf/issues">Report Bug</a>
     ·
     <a href="https://github.com/13sfaith/crf/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -64,11 +64,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
 
 ### Built With
 
@@ -164,15 +159,15 @@ Project Link: [https://github.com/13sfaith/crf](https://github.com/13sfaith/crf)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/13sfaith/repo.svg?style=flat-square
-[contributors-url]: https://github.com/13sfaith/repo/graphs/contributors
+[contributors-url]: https://github.com/13sfaith/crf/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/13sfaith/repo.svg?style=flat-square
-[forks-url]: https://github.com/13sfaith/repo/network/members
+[forks-url]: https://github.com/13sfaith/crf/network/members
 [stars-shield]: https://img.shields.io/github/stars/13sfaith/repo.svg?style=flat-square
-[stars-url]: https://github.com/13sfaith/repo/stargazers
+[stars-url]: https://github.com/13sfaith/crf/stargazers
 [issues-shield]: https://img.shields.io/github/issues/13sfaith/repo.svg?style=flat-square
-[issues-url]: https://github.com/13sfaith/repo/issues
+[issues-url]: https://github.com/13sfaith/crf/issues
 [license-shield]: https://img.shields.io/github/license/13sfaith/repo.svg?style=flat-square
-[license-url]: https://github.com/13sfaith/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/13sfaith/crf/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/13sfaith
+[linkedin-url]: https://linkedin.com/in/spencer-faith-725486194/
 [product-screenshot]: images/screenshot.png
