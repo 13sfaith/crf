@@ -1,0 +1,17 @@
+[package]
+name = "mrf"
+version = "0.1.0"
+authors = ["13sfaith <13sfaith@gmail.com>"]
+license = "MIT"
+description = "A tool to generate react component boilerplate"
+readme = "README.md"
+homepage = "https://github.com/13sfaith/mrf"
+repository = "https://github.com/13sfaith/mrf"
+keywords = ["cli", "react", "boilerplate"]
+categories = ["command-line-utilities"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.13"
