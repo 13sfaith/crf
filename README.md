@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/13sfaith/mrf">
+  <a href="https://github.com/13sfaith/crf">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,9 +35,9 @@
 	
     <br />
     
-    <a href="https://github.com/13sfaith/mrf/issues">Report Bug</a>
+    <a href="https://github.com/13sfaith/crf/issues">Report Bug</a>
     ·
-    <a href="https://github.com/13sfaith/mrf/issues">Request Feature</a>
+    <a href="https://github.com/13sfaith/crf/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,18 +89,19 @@ To build your own verison of this script you will need.
 * Cargo
 * Rust
 ```sh
-npm install npm@latest -g
+# if you use rustup update rust using:
+rustup update
 ```
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/13sfaith/mrf.git
+git clone https://github.com/13sfaith/crf.git
 ```
-2. Install NPM packages
+2. Build the release
 ```sh
-npm install
+cargo build --release
 ```
 
 
@@ -117,7 +118,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/13sfaith/mrf/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/13sfaith/crf/issues) for a list of proposed features (and known issues).
 
 
 
@@ -146,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Spencer Faith - [@13sfaith](https://twitter.com/13sfaith) - 13sfaith@gmail.com
 
-Project Link: [https://github.com/13sfaith/mrf](https://github.com/13sfaith/mrf)
+Project Link: [https://github.com/13sfaith/crf](https://github.com/13sfaith/crf)
 
 
 
