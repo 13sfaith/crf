@@ -9,6 +9,8 @@ homepage = "https://github.com/13sfaith/mrf"
 repository = "https://github.com/13sfaith/mrf"
 keywords = ["cli", "react", "boilerplate"]
 categories = ["command-line-utilities"]
+edition = "2018"
+
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
