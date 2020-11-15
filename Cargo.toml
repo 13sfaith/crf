@@ -1,5 +1,5 @@
 [package]
-name = "mrf"
+name = "crf"
 version = "0.1.0"
 authors = ["13sfaith <13sfaith@gmail.com>"]
 license = "MIT"
