@@ -167,7 +167,7 @@ Project Link: [https://github.com/13sfaith/crf](https://github.com/13sfaith/crf)
 [issues-shield]: https://img.shields.io/github/issues/13sfaith/repo.svg?style=flat-square
 [issues-url]: https://github.com/13sfaith/crf/issues
 [license-shield]: https://img.shields.io/github/license/13sfaith/repo.svg?style=flat-square
-[license-url]: https://github.com/13sfaith/crf/main/LICENSE.txt
+[license-url]: https://github.com/13sfaith/crf/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/spencer-faith-725486194/
 [product-screenshot]: images/screenshot.png
