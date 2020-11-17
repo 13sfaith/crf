@@ -98,7 +98,7 @@ git clone https://github.com/13sfaith/crf.git
 ```sh
 cargo build --release
 ```
-
+3. The executable is then stored in crf/target/release
 
 
 <!-- USAGE EXAMPLES -->
@@ -108,7 +108,41 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+Create a react component either class or function (default class)
 
+USAGE:
+    crf [OPTIONS] <name>
+
+FLAGS:
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+
+OPTIONS:
+    -t, --type <comp-type>    Type of component (-t c or -t f) [default: c]
+
+ARGS:
+    <name>    Name of component
+
+An example use case would be:
+
+<img src="images/example-use.png" alt="example image" />
+
+This would create a js file named "Example.js" in the current working directory 
+The file would contain a boilerplate class file that would look like:
+
+<img src="images/example-class.png" alt="example class"/>
+
+The default behavior of the tool is to create a class, however if you would like to make a functional component we've got you covered.
+
+Simply use the function tag as such:
+
+<img src="imags/example-use-func.png" alt="example imag"/>
+
+This will create a js file named "Exampl.js" with the following boilerplate:
+
+<img src="images/example-func.png" alt="example function"/>
+
+Happy Hacking!
 
 <!-- ROADMAP -->
 ## Roadmap

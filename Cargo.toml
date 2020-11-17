@@ -1,6 +1,6 @@
 [package]
 name = "crf"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["13sfaith <13sfaith@gmail.com>"]
 license = "MIT"
 description = "A tool to generate react component boilerplate"
