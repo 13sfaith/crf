@@ -27,7 +27,7 @@
   <h3 align="center">CRF</h3>
 
   <p align="center">
-    A simple react component creator
+    A Simple React Component Creator
     <br />
     <a href="https://github.com/13sfaith/crf"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,8 +58,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
@@ -94,8 +92,10 @@ git clone https://github.com/13sfaith/crf.git
 ```sh
 cargo build --release
 ```
-3. The executable is then stored in crf/target/release
-
+3. The executable is then stored in: 
+```sh
+./crf/target/release
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
