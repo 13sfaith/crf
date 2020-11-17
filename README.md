@@ -24,14 +24,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/13sfaith/crf">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">CRF</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    A simple react component creator
     <br />
     <a href="https://github.com/13sfaith/crf"><strong>Explore the docs »</strong></a>
     <br />
@@ -136,9 +132,9 @@ The default behavior of the tool is to create a class, however if you would like
 
 Simply use the function tag as such:
 
-<img src="imags/example-use-func.png" alt="example imag"/>
+<img src="images/example-use-func.png" alt="example imag"/>
 
-This will create a js file named "Exampl.js" with the following boilerplate:
+This will create a js file named "Example.js" with the following boilerplate:
 
 <img src="images/example-func.png" alt="example function"/>
 
